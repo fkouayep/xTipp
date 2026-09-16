@@ -1,0 +1,438 @@
+{
+  "generated": "15.09.2026 18:35",
+  "leagues": {
+    "Premier League": [
+      {
+        "home": "Man City",
+        "away": "Tottenham",
+        "date": "Thu 17.09.",
+        "time": "22:57",
+        "p_home": 0.5029,
+        "p_draw": 0.2123,
+        "p_away": 0.2848,
+        "over25": 0.7867,
+        "btts": 0.7656,
+        "xg_home": 2.38,
+        "xg_away": 1.8
+      },
+      {
+        "home": "Arsenal",
+        "away": "Newcastle",
+        "date": "Fri 18.09.",
+        "time": "19:57",
+        "p_home": 0.4836,
+        "p_draw": 0.2901,
+        "p_away": 0.2263,
+        "over25": 0.4542,
+        "btts": 0.5018,
+        "xg_home": 1.52,
+        "xg_away": 0.97
+      },
+      {
+        "home": "Liverpool",
+        "away": "Man City",
+        "date": "Sat 19.09.",
+        "time": "17:57",
+        "p_home": 0.3401,
+        "p_draw": 0.2229,
+        "p_away": 0.4371,
+        "over25": 0.7688,
+        "btts": 0.7604,
+        "xg_home": 1.9,
+        "xg_away": 2.15
+      },
+      {
+        "home": "Liverpool",
+        "away": "Tottenham",
+        "date": "Sun 20.09.",
+        "time": "19:57",
+        "p_home": 0.3811,
+        "p_draw": 0.2293,
+        "p_away": 0.3896,
+        "over25": 0.7496,
+        "btts": 0.7478,
+        "xg_home": 1.95,
+        "xg_away": 1.97
+      }
+    ],
+    "La Liga": [
+      {
+        "home": "Real Madrid",
+        "away": "Villarreal",
+        "date": "Thu 17.09.",
+        "time": "19:57",
+        "p_home": 0.6529,
+        "p_draw": 0.2357,
+        "p_away": 0.1115,
+        "over25": 0.4734,
+        "btts": 0.4283,
+        "xg_home": 1.9,
+        "xg_away": 0.67
+      },
+      {
+        "home": "Betis",
+        "away": "Real Sociedad",
+        "date": "Fri 18.09.",
+        "time": "22:57",
+        "p_home": 0.1615,
+        "p_draw": 0.3253,
+        "p_away": 0.5132,
+        "over25": 0.2918,
+        "btts": 0.3433,
+        "xg_home": 0.61,
+        "xg_away": 1.28
+      },
+      {
+        "home": "Real Madrid",
+        "away": "Real Sociedad",
+        "date": "Sat 19.09.",
+        "time": "22:57",
+        "p_home": 0.4709,
+        "p_draw": 0.3415,
+        "p_away": 0.1877,
+        "over25": 0.2768,
+        "btts": 0.3466,
+        "xg_home": 1.18,
+        "xg_away": 0.65
+      },
+      {
+        "home": "Sevilla",
+        "away": "Atlético",
+        "date": "Sun 20.09.",
+        "time": "22:57",
+        "p_home": 0.1328,
+        "p_draw": 0.2285,
+        "p_away": 0.6387,
+        "over25": 0.5455,
+        "btts": 0.5044,
+        "xg_home": 0.84,
+        "xg_away": 2.03
+      }
+    ],
+    "Bundesliga": [
+      {
+        "home": "Bayern",
+        "away": "Frankfurt",
+        "date": "Thu 17.09.",
+        "time": "19:57",
+        "p_home": 0.6792,
+        "p_draw": 0.1821,
+        "p_away": 0.1387,
+        "over25": 0.7387,
+        "btts": 0.6547,
+        "xg_home": 2.67,
+        "xg_away": 1.19
+      },
+      {
+        "home": "Bayern",
+        "away": "Stuttgart",
+        "date": "Fri 18.09.",
+        "time": "22:57",
+        "p_home": 0.7464,
+        "p_draw": 0.1397,
+        "p_away": 0.1139,
+        "over25": 0.8526,
+        "btts": 0.7291,
+        "xg_home": 3.38,
+        "xg_away": 1.38
+      },
+      {
+        "home": "Freiburg",
+        "away": "Bayern",
+        "date": "Sat 19.09.",
+        "time": "17:57",
+        "p_home": 0.1272,
+        "p_draw": 0.1854,
+        "p_away": 0.6874,
+        "over25": 0.7022,
+        "btts": 0.6143,
+        "xg_home": 1.07,
+        "xg_away": 2.57
+      },
+      {
+        "home": "Stuttgart",
+        "away": "Bayern",
+        "date": "Sun 20.09.",
+        "time": "22:57",
+        "p_home": 0.1209,
+        "p_draw": 0.1443,
+        "p_away": 0.7349,
+        "over25": 0.8495,
+        "btts": 0.7334,
+        "xg_home": 1.41,
+        "xg_away": 3.32
+      }
+    ],
+    "Serie A": [
+      {
+        "home": "Napoli",
+        "away": "Milan",
+        "date": "Thu 17.09.",
+        "time": "21:57",
+        "p_home": 0.2285,
+        "p_draw": 0.2739,
+        "p_away": 0.4977,
+        "over25": 0.5131,
+        "btts": 0.5462,
+        "xg_home": 1.07,
+        "xg_away": 1.66
+      },
+      {
+        "home": "Inter",
+        "away": "Atalanta",
+        "date": "Fri 18.09.",
+        "time": "19:57",
+        "p_home": 0.5184,
+        "p_draw": 0.2506,
+        "p_away": 0.231,
+        "over25": 0.6021,
+        "btts": 0.6121,
+        "xg_home": 1.9,
+        "xg_away": 1.22
+      },
+      {
+        "home": "Roma",
+        "away": "Milan",
+        "date": "Sat 19.09.",
+        "time": "19:57",
+        "p_home": 0.2147,
+        "p_draw": 0.2338,
+        "p_away": 0.5515,
+        "over25": 0.6499,
+        "btts": 0.6397,
+        "xg_home": 1.26,
+        "xg_away": 2.09
+      },
+      {
+        "home": "Napoli",
+        "away": "Inter",
+        "date": "Sun 20.09.",
+        "time": "17:57",
+        "p_home": 0.2304,
+        "p_draw": 0.2556,
+        "p_away": 0.5141,
+        "over25": 0.5826,
+        "btts": 0.5977,
+        "xg_home": 1.18,
+        "xg_away": 1.84
+      }
+    ],
+    "Ligue 1": [
+      {
+        "home": "Monaco",
+        "away": "Lyon",
+        "date": "Thu 17.09.",
+        "time": "21:57",
+        "p_home": 0.23,
+        "p_draw": 0.2567,
+        "p_away": 0.5133,
+        "over25": 0.5779,
+        "btts": 0.5941,
+        "xg_home": 1.17,
+        "xg_away": 1.83
+      },
+      {
+        "home": "Monaco",
+        "away": "Lens",
+        "date": "Fri 18.09.",
+        "time": "19:57",
+        "p_home": 0.1537,
+        "p_draw": 0.2574,
+        "p_away": 0.5889,
+        "over25": 0.4797,
+        "btts": 0.4769,
+        "xg_home": 0.81,
+        "xg_away": 1.78
+      },
+      {
+        "home": "Nice",
+        "away": "Lyon",
+        "date": "Sat 19.09.",
+        "time": "21:57",
+        "p_home": 0.3854,
+        "p_draw": 0.3383,
+        "p_away": 0.2763,
+        "over25": 0.3312,
+        "btts": 0.4197,
+        "xg_home": 1.12,
+        "xg_away": 0.91
+      },
+      {
+        "home": "Rennes",
+        "away": "Lyon",
+        "date": "Sun 20.09.",
+        "time": "19:57",
+        "p_home": 0.3821,
+        "p_draw": 0.2703,
+        "p_away": 0.3476,
+        "over25": 0.5835,
+        "btts": 0.6228,
+        "xg_home": 1.55,
+        "xg_away": 1.48
+      }
+    ],
+    "2. Bundesliga": [
+      {
+        "home": "F. Düsseldorf",
+        "away": "SC Paderborn",
+        "date": "Thu 17.09.",
+        "time": "17:57",
+        "p_home": 0.4941,
+        "p_draw": 0.2704,
+        "p_away": 0.2355,
+        "over25": 0.5318,
+        "btts": 0.5627,
+        "xg_home": 1.69,
+        "xg_away": 1.11
+      },
+      {
+        "home": "Greuther Fürth",
+        "away": "1. FC Nürnberg",
+        "date": "Fri 18.09.",
+        "time": "22:57",
+        "p_home": 0.5391,
+        "p_draw": 0.2392,
+        "p_away": 0.2218,
+        "over25": 0.6368,
+        "btts": 0.6334,
+        "xg_home": 2.02,
+        "xg_away": 1.26
+      },
+      {
+        "home": "F. Düsseldorf",
+        "away": "1. FC Nürnberg",
+        "date": "Sat 19.09.",
+        "time": "21:57",
+        "p_home": 0.5791,
+        "p_draw": 0.236,
+        "p_away": 0.1849,
+        "over25": 0.6051,
+        "btts": 0.5905,
+        "xg_home": 2.04,
+        "xg_away": 1.09
+      },
+      {
+        "home": "Kaiserslautern",
+        "away": "Schalke 04",
+        "date": "Sun 20.09.",
+        "time": "17:57",
+        "p_home": 0.4081,
+        "p_draw": 0.2751,
+        "p_away": 0.3168,
+        "over25": 0.5585,
+        "btts": 0.6018,
+        "xg_home": 1.56,
+        "xg_away": 1.36
+      }
+    ],
+    "Champions League": [
+      {
+        "home": "Man City",
+        "away": "Real Madrid",
+        "date": "Fri 18.09.",
+        "time": "22:57",
+        "p_home": 0.369,
+        "p_draw": 0.2855,
+        "p_away": 0.3455,
+        "over25": 0.5234,
+        "btts": 0.5775,
+        "xg_home": 1.41,
+        "xg_away": 1.36
+      },
+      {
+        "home": "Bayern",
+        "away": "Inter",
+        "date": "Fri 18.09.",
+        "time": "22:57",
+        "p_home": 0.5488,
+        "p_draw": 0.2474,
+        "p_away": 0.2038,
+        "over25": 0.5857,
+        "btts": 0.5874,
+        "xg_home": 1.92,
+        "xg_away": 1.12
+      },
+      {
+        "home": "Paris SG",
+        "away": "Arsenal",
+        "date": "Fri 18.09.",
+        "time": "22:57",
+        "p_home": 0.4331,
+        "p_draw": 0.305,
+        "p_away": 0.262,
+        "over25": 0.4283,
+        "btts": 0.4939,
+        "xg_home": 1.37,
+        "xg_away": 1.02
+      },
+      {
+        "home": "Barcelona",
+        "away": "Dortmund",
+        "date": "Sun 20.09.",
+        "time": "00:57",
+        "p_home": 0.4748,
+        "p_draw": 0.2769,
+        "p_away": 0.2482,
+        "over25": 0.5178,
+        "btts": 0.5569,
+        "xg_home": 1.62,
+        "xg_away": 1.12
+      },
+      {
+        "home": "Liverpool",
+        "away": "Milan",
+        "date": "Sun 20.09.",
+        "time": "01:57",
+        "p_home": 0.4035,
+        "p_draw": 0.2714,
+        "p_away": 0.3251,
+        "over25": 0.5753,
+        "btts": 0.6151,
+        "xg_home": 1.59,
+        "xg_away": 1.41
+      },
+      {
+        "home": "Atlético",
+        "away": "Leverkusen",
+        "date": "Sun 20.09.",
+        "time": "01:57",
+        "p_home": 0.4788,
+        "p_draw": 0.2646,
+        "p_away": 0.2566,
+        "over25": 0.5697,
+        "btts": 0.5976,
+        "xg_home": 1.74,
+        "xg_away": 1.23
+      },
+      {
+        "home": "Napoli",
+        "away": "Monaco",
+        "date": "Sun 20.09.",
+        "time": "22:57",
+        "p_home": 0.6185,
+        "p_draw": 0.2179,
+        "p_away": 0.1636,
+        "over25": 0.6429,
+        "btts": 0.6032,
+        "xg_home": 2.22,
+        "xg_away": 1.09
+      }
+    ]
+  },
+  "champions_ohne_prognose": [
+    {
+      "home": "Ajax",
+      "away": "Villarreal",
+      "missing": [
+        "Ajax"
+      ]
+    },
+    {
+      "home": "Benfica",
+      "away": "Marseille",
+      "missing": [
+        "Benfica"
+      ]
+    }
+  ]
+}
